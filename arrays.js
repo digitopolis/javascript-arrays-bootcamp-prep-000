@@ -10,5 +10,14 @@ var chocolateBars = [
   }
   
   function destructivelyAddElementToBeginningOfArray(array, element) {
-    array.push('${element}')
+
   }
+  
+  function addElementToEndOfArray(array, element) {
+
+  }
+  
+  function destructivelyAddElementToEndOfArray(array, element) {
+
+  }
+  
