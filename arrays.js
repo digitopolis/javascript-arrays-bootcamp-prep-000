@@ -38,3 +38,7 @@ var chocolateBars = [
   function destructivelyRemoveElementFromEndOfArray(array) {
     
   }
+  
+  function removeElementFromEndOfArray(array) {
+    
+  }
